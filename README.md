@@ -1,7 +1,7 @@
 ## Romeu Victor - Desenvolvedor Java
 
 ### Sobre mim  
-  Olá! Sou desenvolvedor web com foco em Java/Web.
+  Olá! Sou desenvolvedor web com foco em Java!
 
 #### Destaque para:
 <div>
